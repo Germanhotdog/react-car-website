@@ -1,0 +1,94 @@
+[
+  {
+    "_id": {
+      "$oid": "665c7ce1ab4f83ffb9993aba"
+    },
+    "id": 2,
+    "car_name": "Honda Civic",
+    "car_brand": "Honda",
+    "car_price": 22000
+  },
+  {
+    "_id": {
+      "$oid": "665c7ce1ab4f83ffb9993abb"
+    },
+    "id": 3,
+    "car_name": "Toyota Corolla",
+    "car_brand": "Toyota",
+    "car_price": 20000
+  },
+  {
+    "_id": {
+      "$oid": "665c7ce1ab4f83ffb9993abc"
+    },
+    "id": 4,
+    "car_name": "Chevrolet Camaro",
+    "car_brand": "Chevrolet",
+    "car_price": 40000
+  },
+  {
+    "_id": {
+      "$oid": "665c7ce1ab4f83ffb9993abd"
+    },
+    "id": 5,
+    "car_name": "Nissan Altima",
+    "car_brand": "Nissan",
+    "car_price": 24000
+  },
+  {
+    "_id": {
+      "$oid": "665c7ce1ab4f83ffb9993abe"
+    },
+    "id": 6,
+    "car_name": "BMW 3 Series",
+    "car_brand": "BMW",
+    "car_price": 45000
+  },
+  {
+    "_id": {
+      "$oid": "665c7ce1ab4f83ffb9993abf"
+    },
+    "id": 7,
+    "car_name": "Tesla Model 3",
+    "car_brand": "Tesla",
+    "car_price": 43000
+  },
+  {
+    "_id": {
+      "$oid": "665c7ce1ab4f83ffb9993ac0"
+    },
+    "id": 8,
+    "car_name": "Subaru Outback",
+    "car_brand": "Subaru",
+    "car_price": 27000
+  },
+  {
+    "_id": {
+      "$oid": "665c7ce1ab4f83ffb9993ac1"
+    },
+    "id": 9,
+    "car_name": "Jeep Wrangler",
+    "car_brand": "Jeep",
+    "car_price": 32000
+  },
+  {
+    "_id": {
+      "$oid": "665c7ce1ab4f83ffb9993ac2"
+    },
+    "id": 10,
+    "car_name": "Hyundai Sonata",
+    "car_brand": "Hyundai",
+    "car_price": 23000
+  },
+  {
+    "_id": {
+      "$oid": "665c7ce1ab4f83ffb9993ac3"
+    },
+    "id": 11,
+    "car_name": "Volkswagen Jetta",
+    "car_brand": "Volkswagen",
+    "car_price": 21000
+  }
+
+    
+]

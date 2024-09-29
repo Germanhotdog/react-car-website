@@ -1,0 +1,81 @@
+.parallax-item{
+    font-size: 2em;
+    font-family: "Oswald", sans-serif;
+    text-align: center;
+}
+
+.parallax-item h1{
+    font-size: 3em;
+
+}
+
+.parallax-item2{
+    padding: 15%;
+    font-size: 2em;
+    font-family: "Oswald", sans-serif;
+    text-align: center;
+}
+
+.parallax-item2 h1{
+    font-size: 3em;
+
+}
+
+
+.parallax-container::-webkit-scrollbar {
+    display: none;
+}
+
+.cartoon img{
+
+    float:left;
+    width: 25%;
+
+}
+
+.cartoon2 img{
+    
+    float:right;
+    width: 25%;
+
+}
+
+@media (max-width: 768px) {
+    .parallax-item{
+        font-size: large;
+    }
+    
+    .parallax-item h1{
+        font-size: large;
+    
+    }
+
+    .parallax-item2{
+        font-size: large;
+    }
+    
+    .parallax-item2 h1{
+        font-size: large;
+    
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .parallax-item{
+        font-size: medium;
+    }
+    
+    .parallax-item h1{
+        font-size: medium;
+    
+    }
+
+    .parallax-item2{
+        font-size: medium;
+    }
+    
+    .parallax-item2 h1{
+        font-size: medium;
+    
+    }
+  }

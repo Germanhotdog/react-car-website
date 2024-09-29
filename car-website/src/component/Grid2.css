@@ -1,0 +1,69 @@
+.my-3{
+    width: 80%;
+    margin-left: 5%;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+  }
+
+.grid-item1 {
+    width: 50%;
+    background-color: #f2f2f2;
+    padding: 10px;
+    text-align: center;
+    display: inline-block;
+    transition: transform 0.3s ease;
+
+}
+
+.grid-item1 h4 {
+    font-family: "Oswald", sans-serif;
+    text-align: center;
+    display: block;
+  }
+  
+.grid-item1 p {
+    font-family: "Oswald", sans-serif;
+    text-align: center;
+    display: block;
+}
+
+
+@media (max-width: 768px) {
+    .grid-container {
+      grid-template-columns: repeat(2, 1fr);
+    }
+
+    .grid-item1{
+        width: 70%;
+    }
+  
+    .grid-container .grid-item img{
+      width:100%; 
+      height: 150px;
+      text-align: center;
+  
+    }
+  
+  }
+  
+  @media (max-width: 480px) {
+    .grid-container {
+      grid-template-columns: 1fr;
+    }
+
+    .grid-item1{
+        width: 70%;
+    }
+  
+  
+    .grid-container .grid-item img{
+      width:100%; 
+      height: 150px;
+      text-align: center;
+  
+    }
+  }
